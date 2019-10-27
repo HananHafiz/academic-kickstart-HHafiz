@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: PhD in Text and Technology
-    institution: University of Central Florida
+    institution: University of Central Florida, Expected to graduate
     year: 2023
   - course: MA in Communication and Digital Media
     institution: Saginaw Valley State University
