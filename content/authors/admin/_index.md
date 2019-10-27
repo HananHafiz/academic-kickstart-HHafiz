@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Text and Technology
+    institution: University of Central Florida
+    year: 2023
+  - course: MA in Communication and Digital Media
+    institution: Saginaw Valley State University
+    year: 2015
+  - course: BA in Mass Communication- Journalism
+    institution: King Abdulaziz University
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
