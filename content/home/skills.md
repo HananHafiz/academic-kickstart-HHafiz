@@ -45,4 +45,10 @@ subtitle = ""
     name = "Usability Test"
     description = "90%"
 
+    [[feature]]
+      icon = "language"
+      icon_pack = "fas"
+      name = "Bilingual Arab/Eng"
+      description = "100%"
+
 +++
