@@ -12,8 +12,7 @@ address:
   postcode:
   country:
 summary:
-abstract: Health campaign provides comprehensive information about some of the main common diseases in terms of their symptoms, warning signs, and the right thing to do in emergencies.
-Besides that the campaign includes many easy First Aid techniques, as well as useful advices and information for better and healthy life.
+abstract: Health campaign provides comprehensive information about some of the main common diseases in terms of their symptoms, warning signs, and the right thing to do in emergencies.Besides that the campaign includes many easy First Aid techniques, as well as useful advices and information for better and healthy life.
 
 
 # Talk start and end times.
@@ -66,7 +65,7 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [Health Awareness Campaign]
 
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
