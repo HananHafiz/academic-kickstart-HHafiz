@@ -45,10 +45,10 @@ education:
 social:
 - icon: desktop
   icon_pack: fas
-  link: https://www.hananhafiz.com
+  link: https://hananhafiz.com/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/HananHafiz
 - icon: cv
   icon_pack: ai
   link: files/HHafizCV.pdf  # For a direct email link, use "mailto:test@example.org".
