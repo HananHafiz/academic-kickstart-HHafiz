@@ -111,7 +111,7 @@ appointment_url = ""
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/HananHHafiz"},
   {icon = "skype", icon_pack = "fab", name = "Skype", link = "skype:hanan.hafiz@hotmail.com"},
-  {icon = "envelope", icon_pack = "fas", name = "Email", link = "hhafiz@knights.ucf.edu"},
+  {icon = "envelope", icon_pack = "fas", name = "Email", link = "mailto:hhafiz@knights.ucf.edu"},
   {icon = "wordpress", icon_pack = "fab", name = "Wordpress", link = "https://hananhafiz2019.wordpress.com/"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
