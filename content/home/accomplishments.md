@@ -29,12 +29,12 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "Aloula cooperation"
+  organization_url = ""
+  title = "Acknowledgment for assisting film making program"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-01-01"
   date_end = ""
   description = "Formulated informed blockchain models, hypotheses, and use cases."
 
