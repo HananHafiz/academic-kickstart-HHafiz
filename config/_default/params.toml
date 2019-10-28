@@ -112,6 +112,7 @@ contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "@HananHHafiz", link = "https://twitter.com/HananHHafiz"},
   {icon = "skype", icon_pack = "fab", name = "Skype|Hanan Hafiz", link = "skype:hanan.hafiz@hotmail.com"},
   {icon = "envelope", icon_pack = "fas", name = "Email", link = "hhafiz@knights.ucf.edu"},
+  {icon = "wordpress", icon_pack = "fab", name = "Wordpress", link = "https://wordpress.com/view/hananhafiz2019.wordpress.com"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
