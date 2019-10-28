@@ -14,19 +14,6 @@ address:
 summary:
 abstract: Interactive platform created as Master's Capstone to help children at pre-school age to learn Arabic and English.
 
-title: "health"
-event: Master's Capstone
-event_url: https://www.hananhafiz.com/eduleam.html
-location:
-address:
-  street:
-  city:
-  region:
-  postcode:
-  country:
-summary:
-abstract: Interactive platform created as Master's Capstone to help children at pre-school age to learn Arabic and English
-
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 #date: 2019-01-03T20:40:11-04:00
@@ -77,7 +64,7 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [Health Awareness Campaign]
 
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
