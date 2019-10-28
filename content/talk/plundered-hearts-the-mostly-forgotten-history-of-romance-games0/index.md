@@ -22,7 +22,7 @@ abstract: Health campaign provides comprehensive information about some of the m
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2014-02-01T20:40:11-04:00
+publishDate: 2014-02-01T01:00:11-04:00
 
 authors: []
 tags: []
