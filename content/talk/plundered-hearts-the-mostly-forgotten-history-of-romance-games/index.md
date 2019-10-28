@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Eduleam"
-event: MAster's Capstone
+event: Master's Capstone
 event_url: https://www.hananhafiz.com/eduleam.html
 location:
 address:
@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 summary:
-abstract: Interactive platform help children at pre-school age to learn Arabic and English.
+abstract: Interactive platform created as Master's Capstone to help children at pre-school age to learn Arabic and English.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:  https://www.hananhafiz.com/eduleam.html
+url_slides:  
 
 url_code:
 url_pdf:
