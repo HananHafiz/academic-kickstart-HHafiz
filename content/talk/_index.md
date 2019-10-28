@@ -8,7 +8,11 @@ title: Recent & Upcoming Talks
 view: 2
 
 # Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
+header:"static/img/3049955.png"
+  caption: "Master's capstone building "
   image: ""
+
+  header:
+    caption: ""
+    image: ""
 ---
