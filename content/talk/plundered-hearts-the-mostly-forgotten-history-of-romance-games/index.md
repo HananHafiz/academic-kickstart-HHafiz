@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Eduleam"
+-title: "Eduleam"
 event: Master's Capstone
 event_url: https://www.hananhafiz.com/eduleam.html
 location:
@@ -68,7 +68,8 @@ projects: []
 
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Health Awareness Campaign"
+
+-title: "Health Awareness Campaign"
 event: Master's Capstone
 event_url: https://www.hananhafiz.com/eduleam.html
 location:
