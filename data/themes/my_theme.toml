@@ -1,5 +1,5 @@
 # Theme metadata
-name = "Mytheme"
+name = "my_theme"
 
 # Is theme light or dark?
 light = true
@@ -8,7 +8,7 @@ light = true
 primary = "#EF525B"
 
 # Menu
-menu_primary = "#eb826c "
+menu_primary = "#eb826c"
 menu_text = "#fff"
 menu_text_active = "#00828B"
 menu_title = "#fff"
