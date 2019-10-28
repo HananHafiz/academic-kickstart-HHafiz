@@ -37,6 +37,12 @@ subtitle = ""
   icon = "adobe"
   icon_pack = "fab"
   name = "Adobe"
-  description = "50%"
+  description = "90%"
+
+  [[feature]]
+    icon = "diagnoses"
+    icon_pack = "fas"
+    name = "Usability Test"
+    description = "90%"
 
 +++
