@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "health"
-event: Master's Capstone
-event_url: https://www.hananhafiz.com/eduleam.html
+title: "Health Awareness Campaign"
+event: Bachelor's Capstone
+event_url: https://www.hananhafiz.com/health-campaign.html
 location:
 address:
   street:
@@ -12,7 +12,9 @@ address:
   postcode:
   country:
 summary:
-abstract: Interactive platform created as Master's Capstone to help children at pre-school age to learn Arabic and English.
+abstract: Health campaign provides comprehensive information about some of the main common diseases in terms of their symptoms, warning signs, and the right thing to do in emergencies.
+Besides that the campaign includes many easy First Aid techniques, as well as useful advices and information for better and healthy life.
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -21,7 +23,7 @@ abstract: Interactive platform created as Master's Capstone to help children at 
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2017-08-01T20:40:11-04:00
+publishDate: 2014-02-01T20:40:11-04:00
 
 authors: []
 tags: []
@@ -64,7 +66,7 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [Health Awareness Campaign]
+projects: []
 
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
