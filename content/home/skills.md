@@ -32,4 +32,11 @@ subtitle = ""
   name = "Markdown"
   description = "50%"
 
+
+[[feature]]
+  icon = "adobe"
+  icon_pack = "fab"
+  name = "Adobe"
+  description = "50%"
+
 +++
