@@ -19,14 +19,15 @@
   weight = 30
 
   [[main]]
-    name = "Projects"
-    url = "#talk"
+    name = "Accomplish­ments"
+    url = "#accomplishments"
     weight = 40
 
   [[main]]
-    name = "Accomplish­ments"
-    url = "#accomplishments"
+    name = "Projects"
+    url = "#talks"
     weight = 50
+
 
 [[main]]
   name = "Contact"
