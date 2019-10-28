@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: As a first year Ph.D. student my research interests still wide and abroad mainly I working now on the digital media effects include the use of digital media and how it reflect on Social, Political, and Cultural Changes in Saudi Arabia. 
+bio: As a first year Ph.D. student my research interests still wide and abroad mainly I working now on the digital media effects include the use of digital media and how it reflect on Social, Political, and Cultural Changes in Saudi Arabia.
 
 interests:
 - Digital Storytelling
@@ -71,6 +71,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hanan Hafiz is a first year Ph.D. Candidate of Text and Technology program at the University of Central Florida. Her intended specialist is Digital Media which reflect her research interests that include developing and studying digital media use and effects and Art and technology interactions. In addition topics like digital communication, media representation, and media cultures fit right into her intended area of study.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+During the first year of the program, Hafiz worked on two studies one focus on the impact of social media especially hashtags in change the culture view, values, and behaviors to become more accepting and inclusive toward women driving issues in Saudi Arabia. Moreover, the other study examines the relationships between social media influencer marketing and shopping trends in Saudi Arabia. In addition to the two research studies Hafiz Develop Digital history project highlights the journey of the Islamic famous traveler Ibn Battuta using GIP maps.
