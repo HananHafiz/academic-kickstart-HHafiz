@@ -45,7 +45,7 @@ education:
 social:
 - icon: desktop
   icon_pack: fas
-  link: https://hananhafiz.com/
+  link: https://hananhafiz.com
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
