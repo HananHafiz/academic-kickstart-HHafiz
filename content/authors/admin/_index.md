@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: As a first year Ph.D. student my research interests still wide and abroad mainly I working now on the digital media effects include the use of digital media and how it reflect on Social, Political, and Cultural Changes in Saudi Arabia. 
 
 interests:
 - Digital Storytelling
