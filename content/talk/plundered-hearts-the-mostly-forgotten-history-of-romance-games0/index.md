@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Eduleam"
+title: "health"
 event: Master's Capstone
 event_url: https://www.hananhafiz.com/eduleam.html
 location:
